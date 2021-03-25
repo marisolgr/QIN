@@ -9,3 +9,6 @@ Code in Github @ https://github.com/marisolgr/QIN
 Data @ Documents/LargeData/QIN (sol's folder)
 
 Figures & Summaries, Docs @ Projects/2020_QIN (sol's folder)
+
+Shared Google Drive
+https://drive.google.com/drive/u/1/folders/1Eo1WzVqd0Qb4MIVxBCng-CEFOO8W_GMg
