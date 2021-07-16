@@ -1,0 +1,32 @@
+Fish,Climate Scenario,Depth,Change 2000-2100 (%),stdev,Change 2020-2100 (%),stdev
+Dungeness Crab ,  ssp245 ,  bottom ,26.8,11.3,17.5,9.7
+Dungeness Crab ,  ssp585 ,  bottom ,26,11.8,23.5,6.1
+Razor Clams ,  ssp245 ,  surface ,43.1,6.1,31.6,6.2
+Razor Clams ,  ssp585 ,  surface ,51.7,3.5,42.9,2.5
+Sablefish ,  ssp245 ,  bottom ,31,13.7,23.2,16.8
+Sablefish ,  ssp585 ,  bottom ,44.7,20.6,40,11.2
+Pacific Halibut ,  ssp245 ,  bottom ,23.2,12.5,15.4,7.2
+Pacific Halibut ,  ssp585 ,  bottom ,17.4,10,16.8,6.4
+Chinook ,  ssp245 ,  surface ,33.1,5.3,20,3.5
+Chinook ,  ssp585 ,  surface ,33.7,5.2,23.6,3.6
+Chinook ,  ssp245 ,  bottom ,38.9,15.5,28.9,15.7
+Chinook ,  ssp585 ,  bottom ,42.6,18.3,39.7,11
+Coho ,  ssp245 ,  surface ,40.9,5.9,27.1,4.9
+Coho ,  ssp585 ,  surface ,45.1,4.7,34.4,3.5
+Sockeye ,  ssp245 ,  surface ,23.6,4.4,11.2,2.5
+Sockeye ,  ssp585 ,  surface ,21.9,5.4,12.4,3.7
+Rockfish ,  ssp245 ,  bottom ,  34.2 ,  14.5 ,  25.0 ,  11.6
+Rockfish ,  ssp585 ,  bottom ,  30.5 ,  14.3 ,  29.4 ,  9.0
+Hake ,  ssp245 ,  surface ,  4.3 ,  2.7 ,  6.3 ,  2.3
+Hake ,  ssp585 ,  surface ,  22.9 ,  9.3 ,  24.4 ,  8.3
+Hake ,  ssp245 ,  bottom ,  9.0 ,  14.6 ,  0.4 ,  8.4
+Hake ,  ssp585 ,  bottom ,  10.2 ,  13.6 ,  5.2 ,  7.1
+Albacore ,  ssp245 ,  surface ,  -40.9 ,  5.6 ,  -31.2 ,  5.3
+Albacore ,  ssp585 ,  surface ,  -38.7 ,  5.6 ,  -31.4 ,  5.2
+Pink Shrimp ,  ssp245 ,  bottom ,  -14.2 ,  7.2 ,  -14.0 ,  4.4
+Pink Shrimp ,  ssp585 ,  bottom ,  2.7 ,  11.4 ,  -1.9 ,  7.7
+Cal Halibut ,  ssp245 ,  surface ,  -42.8 ,  7.5 ,  -34.6 ,  7.2
+Cal Halibut ,  ssp585 ,  surface ,  -57.0 ,  4.4 ,  -50.9 ,  3.8
+Cal Halibut ,  ssp245 ,  bottom ,  -3.3 ,  2.0 ,  -3.4 ,  1.9
+Cal Halibut ,  ssp585 ,  bottom ,  -10.4 ,  6.0 ,  -10.6 ,  5.9
+
